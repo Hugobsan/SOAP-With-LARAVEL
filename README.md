@@ -16,6 +16,9 @@ Onde x, y, z e w são números reais e i, j e k são números complexos.
 
 Os quatérnions possuem aplicabilidade nas áreas de matemática, física, computação gráfica, entre outras.
 
+## Requisitos
+Para executar o projeto, é necessário ter instalado o PHP 8.1 ou superior, e o Composer.
+
 ## Instalação
 Para instalar o projeto, basta clonar o repositório e executar o comando `composer install` na pasta raiz do projeto. Este comando irá instalar todas as dependências do projeto.
 
